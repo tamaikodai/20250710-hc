@@ -1,0 +1,11 @@
+@charset "utf-8";
+body{
+    background-color: aquamarine;
+    color: green;
+}
+h1{
+    font-weight: normal;
+}
+p span{
+    font-weight:bold;
+}

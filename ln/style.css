@@ -1,0 +1,26 @@
+@charset "utf-8";
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 16px;
+  background-color: blue;
+  color:red
+}
+
+p {
+  margin: 3em 0;
+}
+
+.lh-normal {
+  line-height: normal;
+}
+
+.lh-150 {
+  line-height: 1.5;
+}
+
+.lh-250 {
+  line-height: 2.5;
+}
